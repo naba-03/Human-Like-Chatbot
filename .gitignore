@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# build output
+dist/
+build/
+
+# logs
+logs/
+*.log
+
+# database files (if using SQLite or similar locally)
+*.sqlite
+
+# OS-specific
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
