@@ -1,4 +1,4 @@
-# LIORA AI-Chatbot
+# AI-Chatbot
 
 A human-like conversational chatbot that demonstrates empathy, contextual awareness, memory, and long-term conversation handling. Built for the STAN Internship Challenge.
 
